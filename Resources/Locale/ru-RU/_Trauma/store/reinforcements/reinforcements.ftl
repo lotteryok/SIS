@@ -21,7 +21,7 @@ reinforcement-sec-specialist-riot-melee-desc = Наймите бронирова
 reinforcement-sec-specialist-riot-ranged-name = Нанять спецназовца службы безопасности (спецназ — дальний бой)
 reinforcement-sec-specialist-riot-ranged-desc = Наймите бронированного спецназовца службы безопасности, экипированного для подавления беспорядков на расстоянии. Минимальное время прибытия — три минуты.
 
-reinforcement-sec-specialist-heavy-laser-name = Нанять спецназовца службы безопасности (тяжёлый лазер)
+reinforcement-sec-specialist-heavy-laser-name = Нанять спецназовца службы безопасности (тяжёлое вооружение)
 reinforcement-sec-specialist-heavy-laser-desc = Наймите бронированного спецназовца службы безопасности, вооружённого лазерной пушкой. Минимальное время прибытия — три минуты.
 
 reinforcement-sec-specialist-shield-name = Нанять спецназовца службы безопасности (щит)
